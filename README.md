@@ -1,16 +1,16 @@
-# Hey there! 👋
+# Hey, you.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eliasjohnson211)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://3lias.pro)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliasjohnson211@gmail.com)
 
-## 👨‍💻 About Me
+## About Me
 
 Technical professional passionate about building cool software, cloud-based solutions, and AI-powered applications. Currently working on game analytics and data visualization projects while exploring opportunities in support engineering, software engineering, and solutions architecting. Based in Salt Lake City, Utah.
 
 Recently graduated from Utah Valley University with a degree in Information Systems and with a Computer Science minor. I love turning complex problems into elegant solutions and bridging the gap between technical implementation and business value.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -49,20 +49,20 @@ Recently graduated from Utah Valley University with a degree in Information Syst
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Doppler](https://img.shields.io/badge/Doppler-6441A5?style=for-the-badge&logo=doppler&logoColor=white)
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 - 🎮 Building full-stack analytics dashboards for game telemetry using Azure PlayFab and React
 - 📊 Developing data visualization tools that translate 300K+ daily events into actionable insights
 - 🤖 Experimenting with AI integrations (Vapi, Deepgram, Retell) for voice-enabled applications
 - 🔧 Creating automation tools and CI/CD pipelines
 
-## 💼 Experience Highlights
+## My Experience Highlights
 
 - **Platform Engineer** @ Pattern - Built scalable IT dashboard platforms with React, Node.js, and AWS
 - **Software Engineer** @ Red Team Interactive - Developing game analytics and economy tracking systems
 - **IT Engineer** @ Microsoft - Automated IT operations and supported enterprise cloud infrastructure
 
-## 📫 Get In Touch
+## Get In Touch
 
 Feel free to reach out if you want to collaborate on projects, discuss tech, or just chat!
 
