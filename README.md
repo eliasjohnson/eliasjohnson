@@ -6,9 +6,9 @@
 
 ## 👨‍💻 About Me
 
-Technical professional passionate about building scalable analytics platforms, cloud-based solutions, and AI-powered applications. Currently working on game analytics and data visualization projects while exploring opportunities in support engineering, software engineering, and solutions architecture. Based in Salt Lake City, Utah.
+Technical professional passionate about building cool software, cloud-based solutions, and AI-powered applications. Currently working on game analytics and data visualization projects while exploring opportunities in support engineering, software engineering, and solutions architecting. Based in Salt Lake City, Utah.
 
-Recently graduated from Utah Valley University with a degree in Information Systems (Data Science emphasis) and Computer Science minor. I love turning complex problems into elegant solutions and bridging the gap between technical implementation and business value.
+Recently graduated from Utah Valley University with a degree in Information Systems and with a Computer Science minor. I love turning complex problems into elegant solutions and bridging the gap between technical implementation and business value.
 
 ## 🛠️ Technical Skills
 
