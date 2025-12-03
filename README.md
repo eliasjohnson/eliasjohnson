@@ -6,7 +6,7 @@
 
 ## About Me
 
-Technical professional passionate about building cool software, cloud-based solutions, and AI-powered applications. Currently working on game analytics and data visualization projects while exploring opportunities in support engineering, software engineering, and solutions architecting. Based in Salt Lake City, Utah.
+Software Developer passionate about building cool software, cloud-based solutions, and AI-powered applications. Currently working on game analytics and data visualization projects while exploring opportunities in support engineering, software engineering, and solutions architecting. Based in Salt Lake City, Utah.
 
 Recently graduated from Utah Valley University with a degree in Information Systems and with a Computer Science minor. I love turning complex problems into elegant solutions and bridging the gap between technical implementation and business value.
 
@@ -51,10 +51,9 @@ Recently graduated from Utah Valley University with a degree in Information Syst
 
 ## What I'm Working On
 
-- 🎮 Building full-stack analytics dashboards for game telemetry using Azure PlayFab and React
-- 📊 Developing data visualization tools that translate 300K+ daily events into actionable insights
-- 🤖 Experimenting with AI integrations (Vapi, Deepgram, Retell) for voice-enabled applications
-- 🔧 Creating automation tools and CI/CD pipelines
+- Building full-stack analytics dashboards for game telemetry using Azure PlayFab and React
+- Experimenting with AI integrations (Vapi, Deepgram, Retell) for voice-enabled applications
+- Automating payments with Stripe and other business workflows (N8N, Slack, GCP, Hostinger, Trello, Stripe) for Provo School of the Arts.
 
 ## My Experience Highlights
 
