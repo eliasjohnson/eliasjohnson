@@ -56,7 +56,10 @@ Recently graduated from Utah Valley University with a degree in Information Syst
 ## My Experience Highlights
 - **Software Engineer** @ Red Team Interactive - Developing game analytics and economy tracking systems, other automations like discord bots.
 - **IT Platform Engineer** @ Pattern - Built and automated workflows (New Employee Onboarding/Offboarding via Okta) and built a custom IT analytics platform with React, Node.js, and AWS.
-- **IT Support Technician** @ Microsoft - Automated IT operations and supported enterprise cloud infrastructure
+- **IT Support Technician** @ Pattern - Provided enterprise technical support for 1,500+ employees across global offices, troubleshooting hardware,
+software, networking, and SaaS application issues.
+- **IT Support Engineer** @ Microsoft - Delivered technical support for SMB customers on Microsoft 365 and Azure, resolving cloud configuration, domain
+management, and platform adoption issues while completing undergraduate degree.
 
 ## Get In Touch
 
