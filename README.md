@@ -31,33 +31,34 @@ Recently graduated from Utah Valley University with a degree in Information Syst
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Databases & Analytics
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### AI Tools & Integrations
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+Hugging Face
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) (we're literally on github rn)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Doppler](https://img.shields.io/badge/Doppler-6441A5?style=for-the-badge&logo=doppler&logoColor=white)
 
 ## What I'm Working On
 
-- Building full-stack analytics dashboards for game telemetry using Azure PlayFab and React for Red Team Interactive.
-- Automating payments with Stripe and other business workflows (N8N, Slack, GCP, Hostinger, Trello, Stripe) for Provo School of the Arts.
-- Experimenting with AI integrations (Vapi, Deepgram, Retell) for voice-enabled applications.
+- Building a full-stack analytic platform for game telemetry using Azure PlayFab and React for Red Team Interactive.
+- Automating payments with Stripe and backend systems, data storage (supabase) and other business workflows (N8N, Slack, GCP, Hostinger, Trello, Stripe) for Provo School of the Arts.
+- Experimenting with AI integrations (Vapi, Deepgram, Retell) for voice-enabled applications. (worked at SAMEDAY AI as a contractor doing this)
 - Job searching. It's full time... :(
 
 ## My Experience Highlights
 - **Software Engineer** @ Red Team Interactive - Developing game analytics and economy tracking systems, other automations like discord bots.
 - **IT Platform Engineer** @ Pattern - Built and automated workflows (New Employee Onboarding/Offboarding via Okta) and built a custom IT analytics platform with React, Node.js, and AWS.
 - **IT Support Technician** @ Pattern - Provided enterprise technical support for 1,500+ employees across global offices, troubleshooting hardware,
-software, networking, and SaaS application issues.
+software, networking, and SaaS application issues. IAM Engineer, sys admin, etc. Did the whole thing. IPO'd in september 
 - **IT Support Engineer** @ Microsoft - Delivered technical support for SMB customers on Microsoft 365 and Azure, resolving cloud configuration, domain
 management, and platform adoption issues while completing undergraduate degree.
 
